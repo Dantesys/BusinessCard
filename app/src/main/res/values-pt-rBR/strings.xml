@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cartão de Visitas</string>
+    <string name="add">Adicionar cartão</string>
+    <string name="add_title">Adicionar Cartão</string>
+    <string name="nome">Nome</string>
+    <string name="empresa">Empresa</string>
+    <string name="email">E-mail</string>
+    <string name="tel">Telefone</string>
+    <string name="back_btn">Voltar</string>
+    <string name="btn_add">Salvar</string>
+    <string name="color_picker">Selecionar Cor</string>
+    <string name="cancel">Cancelar</string>
+    <string name="apply">Aplicar</string>
+    <string name="ok">Sucesso</string>
+    <string name="send_to">Enviar para</string>
+</resources>
